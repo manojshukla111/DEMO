@@ -1,0 +1,17 @@
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.AssemblyInfo.cs
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\bin\Debug\net6.0\OTP.DataAccessLayer.deps.json
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\bin\Debug\net6.0\OTP.DataAccessLayer.runtimeconfig.json
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\bin\Debug\net6.0\OTP.DataAccessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\bin\Debug\net6.0\OTP.DataAccessLayer.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\bin\Debug\net6.0\OTP.Model.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\bin\Debug\net6.0\OTP.Model.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.csproj.CopyComplete
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\refint\OTP.DataAccessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\OTP.DataAccessLayer.genruntimeconfig.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.DataAccessLayer\obj\Debug\net6.0\ref\OTP.DataAccessLayer.dll

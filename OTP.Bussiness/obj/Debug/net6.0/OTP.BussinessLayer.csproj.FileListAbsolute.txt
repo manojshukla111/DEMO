@@ -1,0 +1,17 @@
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.AssemblyInfo.cs
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.BussinessLayer.deps.json
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.BussinessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.BussinessLayer.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.DataAccessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.Model.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.DataAccessLayer.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\bin\Debug\net6.0\OTP.Model.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.csproj.CopyComplete
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\refint\OTP.BussinessLayer.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\OTP.BussinessLayer.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Bussiness\obj\Debug\net6.0\ref\OTP.BussinessLayer.dll

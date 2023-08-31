@@ -1,0 +1,12 @@
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\bin\Debug\net6.0\OTP.Model.deps.json
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\bin\Debug\net6.0\OTP.Model.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\bin\Debug\net6.0\OTP.Model.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.csproj.AssemblyReference.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.AssemblyInfoInputs.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.AssemblyInfo.cs
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.csproj.CoreCompileInputs.cache
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\refint\OTP.Model.dll
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\OTP.Model.pdb
+C:\Users\MANOJ SHUKLA\source\repos\OTPApplication\OTP.Model\obj\Debug\net6.0\ref\OTP.Model.dll
