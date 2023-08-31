@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fhZLUaT7bdYKfxQTK5m+W6KPIOx4CSF5t862iuOrFPU=",
+  "Source": "OTP.ApplicationLayer",
+  "BasePath": "_content/OTP.ApplicationLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
